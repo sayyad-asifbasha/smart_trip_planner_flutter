@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "647121967874",
+    "project_id": "rock-music-assignment",
+    "storage_bucket": "rock-music-assignment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647121967874:android:d69e22a9c685bf594d001b",
+        "android_client_info": {
+          "package_name": "com.example.rock_music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMkZEPPbkKLUjgPwtXllCJFe_oj-AoRAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647121967874:android:db15e698f44657414d001b",
+        "android_client_info": {
+          "package_name": "com.example.smart_trip_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMkZEPPbkKLUjgPwtXllCJFe_oj-AoRAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
